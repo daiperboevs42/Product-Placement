@@ -1,0 +1,14 @@
+C:\Users\Martin\source\repos\ProductPlacement\ProductPlacement.Infrastructure.Data\bin\Debug\netcoreapp3.1\ProdductPlacement.Core.Entity.dll
+C:\Users\Martin\source\repos\ProductPlacement\ProductPlacement.Infrastructure.Data\bin\Debug\netcoreapp3.1\ProductPlacement.Core.dll
+C:\Users\Martin\source\repos\ProductPlacement\ProductPlacement.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductPlacement.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\Martin\source\repos\ProductPlacement\ProductPlacement.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductPlacement.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\ProductPlacement\ProductPlacement.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductPlacement.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\Martin\source\repos\ProductPlacement\ProductPlacement.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductPlacement.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\ProductPlacement\ProductPlacement.Infrastructure.Data\bin\Debug\netcoreapp3.1\ProductPlacement.Infrastructure.Data.deps.json
+C:\Users\Martin\source\repos\ProductPlacement\ProductPlacement.Infrastructure.Data\bin\Debug\netcoreapp3.1\ProductPlacement.Infrastructure.Data.dll
+C:\Users\Martin\source\repos\ProductPlacement\ProductPlacement.Infrastructure.Data\bin\Debug\netcoreapp3.1\ProductPlacement.Infrastructure.Data.pdb
+C:\Users\Martin\source\repos\ProductPlacement\ProductPlacement.Infrastructure.Data\bin\Debug\netcoreapp3.1\ProdductPlacement.Core.Entity.pdb
+C:\Users\Martin\source\repos\ProductPlacement\ProductPlacement.Infrastructure.Data\bin\Debug\netcoreapp3.1\ProductPlacement.Core.pdb
+C:\Users\Martin\source\repos\ProductPlacement\ProductPlacement.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductPlacement.Infrastructure.Data.csproj.CopyComplete
+C:\Users\Martin\source\repos\ProductPlacement\ProductPlacement.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductPlacement.Infrastructure.Data.dll
+C:\Users\Martin\source\repos\ProductPlacement\ProductPlacement.Infrastructure.Data\obj\Debug\netcoreapp3.1\ProductPlacement.Infrastructure.Data.pdb

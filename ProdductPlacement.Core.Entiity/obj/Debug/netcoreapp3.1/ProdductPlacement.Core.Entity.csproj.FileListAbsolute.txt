@@ -1,0 +1,9 @@
+C:\Users\Martin\source\repos\ProductPlacement\ProdductPlacement.Core.Entiity\obj\Debug\netcoreapp3.1\ProdductPlacement.Core.Entity.csprojAssemblyReference.cache
+C:\Users\Martin\source\repos\ProductPlacement\ProdductPlacement.Core.Entiity\obj\Debug\netcoreapp3.1\ProdductPlacement.Core.Entity.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\ProductPlacement\ProdductPlacement.Core.Entiity\obj\Debug\netcoreapp3.1\ProdductPlacement.Core.Entity.AssemblyInfo.cs
+C:\Users\Martin\source\repos\ProductPlacement\ProdductPlacement.Core.Entiity\obj\Debug\netcoreapp3.1\ProdductPlacement.Core.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\ProductPlacement\ProdductPlacement.Core.Entiity\bin\Debug\netcoreapp3.1\ProdductPlacement.Core.Entity.deps.json
+C:\Users\Martin\source\repos\ProductPlacement\ProdductPlacement.Core.Entiity\bin\Debug\netcoreapp3.1\ProdductPlacement.Core.Entity.dll
+C:\Users\Martin\source\repos\ProductPlacement\ProdductPlacement.Core.Entiity\bin\Debug\netcoreapp3.1\ProdductPlacement.Core.Entity.pdb
+C:\Users\Martin\source\repos\ProductPlacement\ProdductPlacement.Core.Entiity\obj\Debug\netcoreapp3.1\ProdductPlacement.Core.Entity.dll
+C:\Users\Martin\source\repos\ProductPlacement\ProdductPlacement.Core.Entiity\obj\Debug\netcoreapp3.1\ProdductPlacement.Core.Entity.pdb
